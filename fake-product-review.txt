@@ -1,0 +1,20 @@
+Dear Nodebriks Team,
+
+I hope this email finds you well.
+
+Please find attached the detailed project document for our upcoming initiative “Project Veritas: An AI-Powered Fake Review Detection System for E-Commerce.”
+
+This system is intended to help us automatically detect and reduce fraudulent product reviews using a hybrid AI/ML approach leveraging Natural Language Processing (NLP) and behavioral analysis. The document outlines the following:
+
+- Executive summary and objectives
+- Scope and feature requirements
+- Technical architecture and methodology
+- Phased implementation plan
+- Evaluation metrics and ethical considerations
+
+We’d like you to review the document thoroughly and come back with your implementation approach, estimated timelines, and cost breakdown.
+
+Looking forward to your response so that we can move this project into the next phase.
+
+Best regards,
+David Johnson
