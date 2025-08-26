@@ -1,8 +1,10 @@
+Subject: MRK Tyres Aggregator Enterprise Application Project Document
+
 Dear Nodebriks Team,
 
 I hope this message finds you well.
 
-Please find attached the Tire Aggregator Enterprise Application Project Document prepared by Armstrong Tyres. This document outlines the business challenges, solution overview, technical requirements, phased implementation plan, compliance considerations, and success metrics for the proposed multi-regional tire distribution platform.
+Please find attached the Tire Aggregator Enterprise Application Project Document prepared by MRK Tyres. This document outlines the business challenges, solution overview, technical requirements, phased implementation plan, compliance considerations, and success metrics for the proposed multi-regional tire distribution platform.
 
 We look forward to your review and feedback, particularly on the following aspects:
 
@@ -16,4 +18,4 @@ Kindly confirm receipt of this document and let us know a suitable time for a fo
 
 Best regards,
 Selvakumar
-Armstrong Tyres
+MRK Tyres
